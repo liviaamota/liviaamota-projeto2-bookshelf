@@ -1,0 +1,69 @@
+.Bookshelf {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .caption{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .caption2 {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+    .botao1 {
+        text-align: center;
+    }
+    
+    .INSCREVA-SE{
+        border: none;
+    border-radius: 40px;
+    color: white;
+    background-color: black;
+    padding: 15px 32px ;
+    }
+    .imagem{
+      text-align: center;
+  
+    }
+      .outros-botoes{
+        text-align: center;
+      }
+
+      .button {
+        border: none;
+        border-radius: 40px;
+        color: white;
+        background-color: deepskyblue;
+        padding: 15px 32px;
+      }
+
+        .button1{
+            border: none;
+            border-radius: 40px;
+            color: white;
+            background-color: black;
+            padding: 15px 32px;
+    
+        }
+         
+        .ultimo-p{
+            text-align: center;
+        }
+         
+        .botao2 {
+            text-align: center;
+        }
+         
+        .INSCREVA-SE2{
+            border: none;
+        border-radius: 40px;
+        color: white;
+        background-color: black;
+        padding: 15px 32px ;
+        }
